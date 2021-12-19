@@ -13,7 +13,7 @@ interface Posts {
 function FirstPost(posts: Posts) {
   return (
     <div className={s.posts}>
-    <h1>First Post</h1>
+    <h1>First Post added to vercel</h1>
     <h2>
         <Link href="/">
           <a>Back to home</a>
